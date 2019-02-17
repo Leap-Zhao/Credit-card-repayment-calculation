@@ -1,4 +1,5 @@
-from tkinter import *
+#coding=utf-8
+from Tkinter import *
 import random
 
 # 简单登录案例
